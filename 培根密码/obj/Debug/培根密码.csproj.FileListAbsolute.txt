@@ -1,0 +1,6 @@
+c:\users\juston\documents\visual studio 2015\Projects\培根密码\培根密码\bin\Debug\培根密码.exe.config
+c:\users\juston\documents\visual studio 2015\Projects\培根密码\培根密码\obj\Debug\培根密码.csprojResolveAssemblyReference.cache
+c:\users\juston\documents\visual studio 2015\Projects\培根密码\培根密码\bin\Debug\培根密码.exe
+c:\users\juston\documents\visual studio 2015\Projects\培根密码\培根密码\bin\Debug\培根密码.pdb
+c:\users\juston\documents\visual studio 2015\Projects\培根密码\培根密码\obj\Debug\培根密码.exe
+c:\users\juston\documents\visual studio 2015\Projects\培根密码\培根密码\obj\Debug\培根密码.pdb
